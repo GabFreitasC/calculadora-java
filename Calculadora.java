@@ -1,9 +1,8 @@
 package calculadora;
 import java.util.Scanner;
 
-/**
- *
- * @author Biel
+/*
+@author Gabriel
  */
 public class Calculadora {
     
