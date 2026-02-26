@@ -66,6 +66,5 @@ public class Calculadora {
         }
         }while (opcao !=5);
         input.close();  
-    }
-    
+    }  
 }
